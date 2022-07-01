@@ -1,0 +1,17 @@
+import React from 'react'
+import Footer from '../components/Footer'
+import HeroImg2 from '../components/HeroImg2'
+import Navbar from '../components/Navbar'
+import WorkCard from '../components/WorkCard'
+const project = () => {
+  return (
+    <div>
+    <Navbar/>
+    <HeroImg2 heading='projects' text='Some of my most recent works'/>
+    <WorkCard/>
+    <Footer/>
+    </div>
+  )
+}
+
+export default project
