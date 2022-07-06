@@ -45,7 +45,7 @@ const Navbar = () => {
         </a>
         </li>
         <li>
-        <a href="https://github.com/" style={{fontWeight: "700" }}>Cv</a>
+        <a href="https://drive.google.com/file/d/15PR08D1kwPSc2eFzYtLtHabchQy7PmK3/view?usp=sharing" target="_blank" rel="noreferrer"  style={{fontWeight: "700" }}>Cv</a>
         </li>
         <li>
           <Link to="/contact" style={{fontWeight: "600" }}>Contact</Link>

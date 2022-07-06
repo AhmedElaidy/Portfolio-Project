@@ -11,8 +11,10 @@ const AboutContent = () => {
         <div className="left">
           <h1>Who Am I?</h1>
           <p>
-            I'm a react front-end developer. i create responsive secure websites
-            for my clients and i search for a job as a front-end developer.
+            Elaidy, a guy that have a passion to code and learn more and more
+            every day and become a better version of himself every day and I'm a
+            react front-end developer. i create responsive secure websites for
+            my clients and i search for a job as a front-end developer.
           </p>
           <Link to="/contact" className="btn">
             Contact

@@ -13,5 +13,4 @@ Color-Generator readme file
 <hr>
 - Portfolio project is a react project that has a lot of functions. <br>
 - it also have a lot of pages that made with react router. <br>
-
 <hr>

@@ -13,7 +13,7 @@ const HeroImg = () => {
       <h1>React Developer</h1>
       <div>
       <Link to="/project" className='btn'>PROJECTS</Link>
-      <a href="https://github.com/" style={{fontWeight: "600" }} className='btn btn-light'>Cv</a>
+      <a href="https://drive.google.com/file/d/15PR08D1kwPSc2eFzYtLtHabchQy7PmK3/view?usp=sharing" target="_blank" rel="noreferrer" style={{fontWeight: "600" }} className='btn btn-light'>Cv</a>
       </div>
       </div>
     </div>
