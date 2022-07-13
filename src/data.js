@@ -3,7 +3,7 @@ export default [
   {
     id: 1,
     title: "Movies App",
-    parag: `Movies-App project is a react project that has a lot of functions, it also have a lot of pages that made with react router, it also has a page for every movie that have a lot of details about the film such as it's itme, quality, release date and description.`,
+    parag: `Movies-App project is a react project that has a lot of functions, it also has a lot of pages that made with react router, it also has a page for every movie that have a lot of details about the film such as it's itme, quality, release date and description.`,
     img: "https://codecanyon.img.customer.envatousercontent.com/files/398200153/07_Streamit-app.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=3cc97c85bd37f6857f83f47a9bf794bb",
     demo: "https://elaidy-movies.netlify.app/",
     github: "https://github.com/AhmedElaidy/Movies-Project",
