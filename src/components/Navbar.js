@@ -35,23 +35,32 @@ const Navbar = () => {
           <Link to="/about">About</Link>
         </li>
         <li>
-        <a
-        href="https://www.linkedin.com/in/ahmedelaidy/"
-        target="_blank"
-        rel="noreferrer"
-        style={{ color: "#61DBFB", fontWeight: "700" }}
-        >
-        LinkedIn
-        </a>
+          <a
+            href="https://www.linkedin.com/in/ahmedelaidy/"
+            target="_blank"
+            rel="noreferrer"
+            style={{ color: "#61DBFB", fontWeight: "700" }}
+          >
+            LinkedIn
+          </a>
         </li>
         <li>
-        <a href="https://drive.google.com/file/d/1028s-0lNijsxYNgW-s_Dd3tds7jooqud/view?usp=sharing" target="_blank" rel="noreferrer"  style={{fontWeight: "700" }}>Cv</a>
+          <a
+            href="https://drive.google.com/file/d/1wU8nXrHO2kNseIy12mb2jumWLVK80IhI/view?usp=sharing"
+            target="_blank"
+            rel="noreferrer"
+            style={{ fontWeight: "700" }}
+          >
+            Cv
+          </a>
         </li>
         <li>
-          <Link to="/contact" style={{fontWeight: "600" }}>Contact</Link>
+          <Link to="/contact" style={{ fontWeight: "600" }}>
+            Contact
+          </Link>
         </li>
-        </ul>
-        <div className="hamburger" onClick={clickHandler}>
+      </ul>
+      <div className="hamburger" onClick={clickHandler}>
         {click ? (
           <FaTimes size={20} style={{ color: "white" }} />
         ) : (
